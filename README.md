@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 ## Install Instructions
 It is highly recommended that you install the SocialSim measurements package in a conda environment. SocialSim TA1 performers, please see the Wiki for information on how to [run evaluation as a self-contained service](https://wiki.socialsim.info/x/PADUAQ).
 
